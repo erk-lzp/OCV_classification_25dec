@@ -1,6 +1,6 @@
 # =============================================================================
 # app.py
-# Streamlit app: identify the cathode chemistry (LCO / LFP / NMC) of a cell
+# Streamlit app: identify the cathode chemistry (LCO / LFP / NMC) of a cell 
 # from its OCV discharge curve, using the models trained on synthetic data.
 #
 # The user uploads a CSV, tells the app which column is voltage and which is
